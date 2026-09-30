@@ -3,7 +3,7 @@
 ## Business Problem
 
 Social media offers the Sichuan Opera Troupe
-(四川省川剧院) a way to introduce its performances to potential audiences.
+(Chinese name: 四川省川剧院) a way to introduce its performances to potential audiences.
 Online content may build interest in Sichuan opera and encourage people
 to consider attending a performance.
 
@@ -43,3 +43,23 @@ This independent portfolio project examines video duration and
 interaction counts. It does not measure follower growth, audience age,
 or ticket purchases. Findings will describe associations rather than
 establish that video length causes engagement or sales.
+
+### Initial finding
+
+The initial comparison does not support the hypothesis that videos lasting
+60 seconds or less receive higher interaction counts. Among 416 eligible
+videos, median likes were 76.5 for shorter videos and 83 for longer videos.
+Median comments were also slightly higher for longer videos.
+
+These descriptive differences do not establish that longer videos perform
+better because of their duration. Publication dates and view counts are
+unavailable, and content characteristics may differ between groups.
+Further analysis will examine the distributions and whether the pattern
+is consistent across duration ranges.
+
+At this stage, the evidence does not justify recommending that the theatre
+shorten all videos. A useful next step would be to test shorter and longer
+versions of comparable content and measure their performance over the
+same observation period.
+
+![Median recorded likes by video duration](reports/figures/median_likes_by_duration.png)
